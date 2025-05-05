@@ -1,0 +1,90 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.Contenair {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+h2,p,h6 {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+P {
+    font-weight: bold;
+    font-size: 1.2em; 
+    font-family: "Titan One", sans-serif;
+    font-weight: 20;
+  font-style: normal;
+
+}
+
+.CTAH2 {
+    font-family: "Titan One", sans-serif;
+    font-weight: 400;
+  font-style: normal;
+}
+
+.Photo1 {
+    border-radius: 10px 10px 0px 0px;
+    height: 250px;
+    width: 250px;
+}
+
+.CTA1 {
+    background-color: red;
+    border-radius: 10px 10px 20px 20px;
+}
+
+.Photo2 {
+    border-radius: 10px 10px 0px 0px;
+    height: 250px;
+    width: 250px;
+    background-color: red;
+}
+
+.CTA2 {
+    background-color: red;
+    border-radius: 10px 10px 20px 20px;
+}
+
+.Photo3 {
+    border-radius: 10px 10px 0px 0px;
+    height: 250px;
+    width: 250px; 
+}
+
+.CTA3 {
+    background-color: red;
+    border-radius: 10px 10px 20px 20px;
+}
+
+.Photo4 {
+    border-radius: 10px 10px 0px 0px;
+    height: 250px;
+    width: 250px; 
+}
+
+.CTA4 {
+    background-color: red;
+    border-radius: 10px 10px 20px 20px;
+}
+
+.Photo5 {
+    border-radius: 10px 10px 0px 0px;
+    height: 250px;
+    width: 250px; 
+}
+
+.CTA5 {
+    background-color: red;
+    border-radius: 10px 10px 20px 20px;
+}
